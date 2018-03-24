@@ -8,3 +8,5 @@ Welcome to my blog -> [http://jessehzx.top](http://jessehzx.top)
 https://www.rabbitmq.com/tutorials/tutorial-one-java.html
 
 https://www.rabbitmq.com/tutorials/tutorial-two-java.html
+
+https://www.rabbitmq.com/tutorials/tutorial-three-java.html
