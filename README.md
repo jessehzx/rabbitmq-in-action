@@ -7,3 +7,4 @@ Welcome to my blog -> [http://jessehzx.top](http://jessehzx.top)
 ## Reference
 https://www.rabbitmq.com/tutorials/tutorial-one-java.html
 
+https://www.rabbitmq.com/tutorials/tutorial-two-java.html
